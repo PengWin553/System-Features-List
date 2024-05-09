@@ -1,0 +1,30 @@
+**DoughPro: ONLINE BAKERY INVENTORY MANAGEMENT SYSTEM**
+
+GAPS:
+
+* Manual method - being lost, get wet, human errors
+* lack of real-time data
+	- track ingredient usage
+	- recipe costs
+
+FEATURES:
+
+* Stock level tracking
+* low stock alerts or notifications
+* spoilage alerts or notifications
+* automate purchase orders based on pre-set mininum stock levels
+* detailed listings
+* add stock
+* update stock
+* delete stock
+* production cost calculations
+* download essential reports for offline viewing
+* admin dashboard
+* add staff/admin
+* update staff/admin
+* delete staff/admin
+* two-factor authentication
+* user activity logs (audit trails)
+* password encryption and access control
+* reset password
+* email confirmations
