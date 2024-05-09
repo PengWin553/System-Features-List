@@ -12,7 +12,7 @@ FEATURES:
 * Stock level tracking
 * low stock alerts or notifications
 * spoilage alerts or notifications
-* automate purchase orders based on pre-set mininum stock levels
+* set purchase orders list based on pre-set mininum stock levels
 * detailed listings
 * add stock
 * update stock
