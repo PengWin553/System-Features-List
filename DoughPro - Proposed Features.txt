@@ -28,3 +28,4 @@ FEATURES:
 * password encryption and access control
 * reset password
 * email confirmations
+* recipe management
