@@ -9,23 +9,29 @@ GAPS:
 
 FEATURES:
 
-* Stock level tracking
-* low stock alerts or notifications
-* spoilage alerts or notifications
-* set purchase orders list based on pre-set mininum stock levels
-* detailed listings
-* add stock
-* update stock
-* delete stock
-* production cost calculations
-* download essential reports for offline viewing
-* admin dashboard
-* add staff/admin
+* set order list based on pre-set mininum stock levels
+* download essential reports for offline viewing 
+* dashboards
+* detailed listings 
+* two-factor authentication 
+* user activity logs (audit trails) 
+* reset password 
+* email notifications and confirmations
+* Search and filter functionality 
+* add product
+* update product
+* delete product
+* add category
+* update category
+* delete category
+* password encryption 
+* access control
+* add staff/admin 
 * update staff/admin
 * delete staff/admin
-* two-factor authentication
-* user activity logs (audit trails)
-* password encryption and access control
-* reset password
-* email confirmations
-* recipe management
+* add stock 
+* update stock
+* delete stock
+* Stock level tracking
+* low stock alerts or notifications 
+* spoilage alerts or notifications 
